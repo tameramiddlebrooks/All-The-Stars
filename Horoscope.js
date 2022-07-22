@@ -49,6 +49,8 @@ const Horoscope = (props) => {
                 getReading(event.target.value);
                 setDisplayCard(true);
             }
+            
+            console.log(sunSignData);
             return (
                 <div>
                 <div className = 'selection'>
