@@ -68,6 +68,16 @@ const Horoscope = (props) => {
                   </select>
                 </div>
 
+                
+                <h2>Description: {sunSignData.description}</h2>
+                <p className='date'>{sunSignData.current_date}</p>
+                <p>Date Range: {sunSignData.date_range}</p>
+                <p>Compatability: {sunSignData.compatibility}</p>
+                <p>Mood: {sunSignData.mood}</p>
+                <p>Color: {sunSignData.color}</p>
+                <p>Lucky Number: {sunSignData.lucky_number}</p>
+                <p>Lucky Time: {sunSignData.lucky_time}</p>
+
                 </div>
 
             )
