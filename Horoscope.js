@@ -12,7 +12,7 @@ app, for the reader to be able to read their horoscope.
  
 const Horoscope = (props) => {
 
-    // const Horoscope = (props) => {
+
         const [sunSign, setSunSign]=useState('');
         /* My sunSign state variable is set to an empty value
         because this value depends on what the user
@@ -23,8 +23,6 @@ const Horoscope = (props) => {
         value.
         False loading will hold the current value of the state
         and setLoading will let me change it */
-     
-         const [displayCard, setDisplayCard]=useState(false);
    
 
             useEffect(() => {
@@ -34,21 +32,19 @@ const Horoscope = (props) => {
                   .then((res) => res.json())
                   .then((data) => setSunSign(data))
                   .then(() => setLoading(false));
-              }, []);
-
-
-              if (loading == true) {
+              }, [sunSign])
+ 
+              const handleSelection = (event) => {
+               setSunSign(event.target.value)
+              }
+ 
+              if (loading === true) {
                 return '...Loading, wait one moment, please.';
               }
 
-
-             const handleSelection = (event) => {
-                setSunSign(event.target.value);
-                setDisplayCard(event.target.value);
-            }
-
             
             console.log(sunSignData);
+               
             return (
                 <div>
                 <div className = 'selection'>
