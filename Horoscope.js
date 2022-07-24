@@ -23,9 +23,9 @@ const Horoscope = (props) => {
         value.
         False loading will hold the current value of the state
         and setLoading will let me change it */
-        // const [link, setLinkView]=useState(false);
+     
          const [displayCard, setDisplayCard]=useState(false);
-             const [reading, getReading]=useState(false);
+   
 
             useEffect(() => {
                 setLoading(true);
@@ -42,13 +42,11 @@ const Horoscope = (props) => {
               }
 
 
-            const handleSelection = (event) => {
-                console.log(event.target.value);
-                setLoading(true);
-                setSunSign(true);
-                getReading(event.target.value);
-                setDisplayCard(true);
+             const handleSelection = (event) => {
+                setSunSign(event.target.value);
+                setDisplayCard(event.target.value);
             }
+
             
             console.log(sunSignData);
             return (
