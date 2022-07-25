@@ -11,10 +11,13 @@ The Component Hierarchy for my react app.
 My react app is a horoscope app, where the user will have the option to choose their sun sign and read their horoscope for the day. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
 
 **WireFrame Mockup, Iphone12, Laptop, Desktop**
+
 Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 12: ![image](https://user-images.githubusercontent.com/105788615/180793409-be40611f-c0dc-4256-8d08-931058338715.png)
+
 
 Below is the mockup of what 'All The Stars' would appear like on a laptop.
 ![image](https://user-images.githubusercontent.com/105788615/180792991-66a3c73b-cc30-471f-a42f-b5877669a292.png)
+
 
 Below is the mockup of what 'All The Stars' would appear like on a desktop.
 ![image](https://user-images.githubusercontent.com/105788615/180795523-2ece1e55-99be-47b5-adcb-2af4dc0ded5b.png)
