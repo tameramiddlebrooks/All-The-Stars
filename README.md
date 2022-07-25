@@ -2,15 +2,15 @@
 
 **Title**: All The Stars
 
+**Description**
+
+My react app is a horoscope app, where the user will have the option to choose their sun sign and read their daily horoscope. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
+
 **Component Hierarchy**
 
 The Component Hierarchy for my react app.
 ![image](https://user-images.githubusercontent.com/105788615/180797012-b8a6b883-dd96-49cc-a46c-6dbdcbae9e78.png)
 
-
-**Description**
-
-My react app is a horoscope app, where the user will have the option to choose their sun sign and read their horoscope for the day. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
 
 **WireFrame Mockup, Iphone12, Laptop, Desktop**
 
