@@ -12,6 +12,8 @@ My react app is a horoscope app, where the user will have the option to choose t
 Link to the Figma file containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 12: https://www.figma.com/file/i7HN58eDzEvfFEq5Ed4FRB/WireFrame-Mockup?node-id=0%3A1.
 Link to the Figma file containing my initial mockup of what 'All The Stars' would appear like on a desktop.
 https://www.figma.com/file/xRtfi3m6Wu0Qc1Bsb06FMT/Desktop-Mockup?node-id=0%3A1
+![image](https://user-images.githubusercontent.com/105788615/180792991-66a3c73b-cc30-471f-a42f-b5877669a292.png)
+
 
 **API**
 The API that I used is the aztro API, made by Sameer Kumar, which provides real-time horoscope and astrology information. Here is the API link: https://aztro.sameerkumar.website/
