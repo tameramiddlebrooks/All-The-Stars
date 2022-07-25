@@ -1,4 +1,4 @@
-# project2-react-app
+# Project 2, React App: All The Stars
 
 **Title**: All The Stars
 
