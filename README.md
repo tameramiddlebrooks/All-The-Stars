@@ -3,16 +3,21 @@
 **Title**: All The Stars
 
 **Component Hierarchy**
-https://www.figma.com/file/Q14woRyc8gDDfnocbWu3bK/Component-Hierarchy?node-id=0%3A1 Link to the Figma file containing my Component Hierarchy.
+The Component Hierarchy for my react app.
+![image](https://user-images.githubusercontent.com/105788615/180797012-b8a6b883-dd96-49cc-a46c-6dbdcbae9e78.png)
+
 
 **Description**
 My react app is a horoscope app, where the user will have the option to choose their sun sign and read their horoscope for the day. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
 
-**WireFrame Mockup, Desktop and Iphone12**
-Link to the Figma file containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 12: https://www.figma.com/file/i7HN58eDzEvfFEq5Ed4FRB/WireFrame-Mockup?node-id=0%3A1.
-Link to the Figma file containing my initial mockup of what 'All The Stars' would appear like on a desktop.
-https://www.figma.com/file/xRtfi3m6Wu0Qc1Bsb06FMT/Desktop-Mockup?node-id=0%3A1
+**WireFrame Mockup, Iphone12, Laptop, Desktop**
+Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 12: ![image](https://user-images.githubusercontent.com/105788615/180793409-be40611f-c0dc-4256-8d08-931058338715.png)
+
+Below is the mockup of what 'All The Stars' would appear like on a laptop.
 ![image](https://user-images.githubusercontent.com/105788615/180792991-66a3c73b-cc30-471f-a42f-b5877669a292.png)
+
+Below is the mockup of what 'All The Stars' would appear like on a desktop.
+![image](https://user-images.githubusercontent.com/105788615/180795523-2ece1e55-99be-47b5-adcb-2af4dc0ded5b.png)
 
 
 **API**
@@ -30,4 +35,4 @@ Post MVP I'd  want to add music to the API, there are quite a few songs and albu
 
 
 **Built With**
-JavaScript, CSS, HTML, and the React library.
+Built using JavaScript, CSS, HTML, and the React library.
