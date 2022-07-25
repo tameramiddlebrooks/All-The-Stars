@@ -4,7 +4,7 @@
 
 **Description**
 
-My react app is a horoscope app, where the user will have the option to choose their sun sign and read their daily horoscope. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
+All The Stars is a horoscope app, where the user will have the option to choose their sun sign and read their daily horoscope. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
 
 **Component Hierarchy**
 
