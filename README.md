@@ -13,7 +13,9 @@ The Component Hierarchy for my react app.
 
 **WireFrame Mockup, Iphone14, Laptop, Desktop**
 
-Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 14: ![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/68d5bd19-837d-42af-bd21-53b0041dc386)
+Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 14: 
+![image](https://github.com/tameramiddlebrooks/astrology-react-app/assets/105788615/cce9a174-f5cc-4d94-b6c5-169d76b08861)
+
 
 Below is the mockup of what 'All The Stars' would appear like on a laptop.
 ![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/a37a880e-464f-400a-ae0c-4786e07e61ee)
