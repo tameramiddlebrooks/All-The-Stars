@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import './style.css';
 import { BrowserRouter } from 'react-router-dom';
+import Horoscope from './components/Horoscope';
+import Navbar from './components/Navbar';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render (
