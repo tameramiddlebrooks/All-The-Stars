@@ -4,43 +4,34 @@
 
 **Description**
 
-All The Stars is a horoscope app, where the user will have the option to choose their sun sign and read their daily horoscope. My goal is for this to be a fun app where a user could potentially log on at any point in their day, read their horoscope and be excited/intrigued by it, and learn a little bit more about their sun sign too.
+All The Stars is an astrology application, where the user will have the option to choose their sun sign and read information related to that sign. My goal is for this to be a fun app where a user could get some basic astrological information and maybe be intrigued enough to learn more.
 
 **Component Hierarchy**
 
 The Component Hierarchy for my react app.
-![image](https://user-images.githubusercontent.com/105788615/180797012-b8a6b883-dd96-49cc-a46c-6dbdcbae9e78.png)
+![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/29652506-381c-40a8-a30f-454e0c0ed20a)
 
+**WireFrame Mockup, Iphone14, Laptop, Desktop**
 
-**WireFrame Mockup, Iphone12, Laptop, Desktop**
-
-Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 12: ![image](https://user-images.githubusercontent.com/105788615/180793409-be40611f-c0dc-4256-8d08-931058338715.png)
-
+Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 14: ![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/68d5bd19-837d-42af-bd21-53b0041dc386)
 
 Below is the mockup of what 'All The Stars' would appear like on a laptop.
-![image](https://user-images.githubusercontent.com/105788615/180792991-66a3c73b-cc30-471f-a42f-b5877669a292.png)
-
+![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/a37a880e-464f-400a-ae0c-4786e07e61ee)
 
 Below is the mockup of what 'All The Stars' would appear like on a desktop.
-![image](https://user-images.githubusercontent.com/105788615/180795523-2ece1e55-99be-47b5-adcb-2af4dc0ded5b.png)
-
-
-**API Used For This Project**
-
-The API that I used is the aztro API, made by Sameer Kumar, which provides real-time horoscope and astrology information. Here is the API link: https://aztro.sameerkumar.website/
+(![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/fb2ea61f-59e3-4001-bc41-f0929e9927c6)
 
 **API Documentation**
 
-This is the link containing the full documentation to successfully use the aztro API: https://aztro.readthedocs.io/en/latest/
+This is the link containing the full documentation to successfully use the API https://jps-tarot-api.azurewebsites.net/swagger/index.html.
 
 **Miniumum Need To Have Features**
 
-The minimum features for my API are the functions on the Horoscope page, where the user will be able to choose their sign and view their horoscope. The minimum features for this page are a way for the user to view all 12 sun signs and choose one (either a drop-down list, 12 clickable buttons or cards containing each sign, etc). The app also needs a function Navigation Bar.
+The minimum features for my API are the functions on the Sun Sign Astrology page, where the user will be able to choose their sign and view information pertaining to that sign. The minimum features for this page are a way for the user to view all 12 sun signs and choose one (using a drop-down list), and a function Navigation Bar.
 
 **Post MVP**
 
-Post MVP I'd  want to add music to the API, there are quite a few songs and albums that have an astrology theme to them so I feel like that’d be a nice, fun touch. Also I’d like for users to have the option to look at a detailed summary of their sun sign instead of only reading their horoscope, so I'd want to include the option for users to look at their whole birth chart within the app instead of another website.
-
+Post MVP I'd want to convert this to Swift and upload it onto TestFlight. Also I’d like for users to have the option to look at their whole birth chart within the app instead of linking to another website.
 
 **Built With**
 
