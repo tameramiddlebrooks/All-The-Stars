@@ -1,6 +1,5 @@
 body {
-    margin: 0;
-    background-image: url(https://i.pinimg.com/originals/ea/b0/10/eab01086ae4aaf8a5981c8f2a1e95b2a.jpg)
+     background: linear-gradient(93.1deg, rgb(238, 254, 183) 19.1%, rgb(169, 254, 222) 53.9%, rgb(90, 222, 255) 92%);
 }
 
 * {
@@ -13,55 +12,31 @@ body {
   font-size: 2.5rem;
 }
 
+.navLinks {
+  margin: 10px 0
+}
+
 .nav {
   display: flex;
   align-items: center;
   justify-content: center; 
-  background-color: rgb(253, 10, 152);
+  background-color: rgb(238, 254, 183);
   gap: 2.5rem;
-  padding: 0 1rem;
+  font-size: 1.2rem;
+  padding: 1rem;
+
 }
 
 .nav a {
-  display: flex;
   align-items: center;
-  margin-right: auto;
-  color: black;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  text-decoration: none;
-
-}
-
-.nav ul {
-  display: flex;
-  align-items: center;;
-  gap: 1.5rem;
-  list-style: none;
-  font-size: 1.3rem;
-}
-
-.nav li.active {
-  background-color: white;
 }
 
 .nav li:hover {
-  background-color: white
+  background-color:  rgb(169, 254, 222)
 }
 
-.home {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 1.5rem;
-  font-style: italic;
-}
-
-.chart {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 1.5rem;
-  font-style: italic;
-}
-
-.about {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 1.5rem;
-  font-style: italic; 
+.signOptions {
+  font-size: 1.3rem;
+  font-stretch: semi-condensed;
 }
