@@ -1,0 +1,95 @@
+body {
+    background: #ffffff;
+    background-repeat: repeat;
+}
+* {
+ box-sizing: border-box;
+}
+
+
+.navLinks {
+ margin: 10px 0
+}
+
+.navbarTitle {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 350;
+    text-align: center;
+}
+
+.nav {
+ text-align: center;
+ background: radial-gradient(#e66465, #9198e5);
+ /* background: radial-gradient(#FBAF00 0, #FFA3AF 100%); */
+ font-size: 2rem;
+ padding: 1rem;
+ font-family: "Montserrat";
+ color: Black;
+
+}
+
+.nav a {
+padding-right: 55px;
+text-align: center;
+ align-items: center;
+ color: Black;
+
+}
+
+ul {
+    list-style: none;
+}
+
+.landingPageHeader {
+    font-family: "Raleway", sans-serif;
+    font-weight: 250;
+    font-style: italic;
+    text-align: center;
+    font-size: 2.4rem;
+}
+
+.aboutParagraph {
+    padding-top: 3rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
+
+/* .nav li:hover {
+ background-color:  rgb(169, 254, 222)
+} */
+
+.signOptions {
+text-align: center;
+ font-size: 1.3rem;
+ /* font-stretch: semi-condensed; */
+
+}
+
+.sign-Name {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+.sign-info {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+
+/* .aboutTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal
+
+} */
