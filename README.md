@@ -9,26 +9,32 @@ All The Stars is an astrology application, where the user will have the option t
 **Component Hierarchy**
 
 The Component Hierarchy for my react app.
+
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/b8702907-44e0-4fcd-9067-760f7ce88c54">
 
 
 **Project Evolution: WireFrame Mockups Featuring Iphone14, Laptop, Desktop**
 
-First Iteration: Below is the image containing my very first version mockup of what 'All The Stars' would appear like on the screen of an Iphone 14, a laptop, and a desktop computer: 
+First Iteration: Below is the image containing my very first version mockup of what 'All The Stars' would appear like on the screen of an iPhone 14, a laptop, and a desktop computer: 
+
 
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/60992885-1362-4603-bece-0dfa398cc5fc">
 
 
-Second Iteration: Below is the image containing my second version mockup of what 'All The Stars' would appear like on the screen of an Iphone 14, a laptop, and a desktop computer: 
+
+Second Iteration: Below is the image containing my second version mockup of what 'All The Stars' would appear like on the screen of an iPhone 14, a laptop, and a desktop computer: 
+
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/56e21805-c52e-425c-8455-1032893c8c43">
 
 
-Current Iteration: Below is the image containing my current mockup of what 'All The Stars' would appear like on the screen of an Iphone 14 ProMax, a laptop, and a desktop computer: 
+Current Iteration: Below is the image containing my current mockup of what 'All The Stars' would appear like on the screen of an iPhone 14 ProMax, a laptop, a desktop computer, and an iPad Pro: 
 
-<img width="924" alt="image" src="https://github.com/user-attachments/assets/2f845e04-4789-402d-b524-b08c010841a0">
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/d3c6ed44-99b3-43ab-a717-50930b42fcf3">
 
-This current version includes aesthetic changes based on knowledge I've acquired on design, inlcluding choosing color palettes, typography and hierarchy of text.
+
+This current version priotizes changes made with the intention of making the application more aeshtetically pleasing. The choices I made are based on knowledge I've acquired on design, inlcluding choosing color palettes, typography and hierarchy of text.
+
 
 **API Documentation**
 
