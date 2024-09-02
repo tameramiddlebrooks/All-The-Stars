@@ -9,16 +9,26 @@ All The Stars is an astrology application, where the user will have the option t
 **Component Hierarchy**
 
 The Component Hierarchy for my react app.
-![image](https://github.com/tameramiddlebrooks/horoscope-react-app/assets/105788615/29652506-381c-40a8-a30f-454e0c0ed20a)
-
-**WireFrame Mockup, Iphone14, Laptop, Desktop**
-
-Below is the image containing my mockup of what 'All The Stars' would appear like on the screen of an Iphone 14: 
-![image](https://github.com/tameramiddlebrooks/astrology-react-app/assets/105788615/c45bef73-5024-4199-a3c7-6e5e83c53bf9)
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/b8702907-44e0-4fcd-9067-760f7ce88c54">
 
 
-Below is the mockup of what 'All The Stars' would appear like on a laptop and a desktop.
-![image](https://github.com/tameramiddlebrooks/astrology-react-app/assets/105788615/dced0bd1-6a53-4ec0-81dd-534c4a23b5b6)
+**Project Evolution: WireFrame Mockups Featuring Iphone14, Laptop, Desktop**
+
+First Iteration: Below is the image containing my very first version mockup of what 'All The Stars' would appear like on the screen of an Iphone 14, a laptop, and a desktop computer: 
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/60992885-1362-4603-bece-0dfa398cc5fc">
+
+
+Second Iteration: Below is the image containing my second version mockup of what 'All The Stars' would appear like on the screen of an Iphone 14, a laptop, and a desktop computer: 
+
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/56e21805-c52e-425c-8455-1032893c8c43">
+
+
+Current Iteration: Below is the image containing my current mockup of what 'All The Stars' would appear like on the screen of an Iphone 14 ProMax, a laptop, and a desktop computer: 
+
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/2f845e04-4789-402d-b524-b08c010841a0">
+
+This current version includes aesthetic changes based on knowledge I've acquired on design, inlcluding choosing color palettes, typography and hierarchy of text.
 
 **API Documentation**
 
@@ -26,11 +36,11 @@ This is the link containing the full documentation to successfully use the API h
 
 **Miniumum Need To Have Features**
 
-The minimum features for my API are the functions on the Sun Sign Astrology page, where the user will be able to choose their sign and view information pertaining to that sign. The minimum features for this page are a way for the user to view all 12 sun signs and choose one (using a drop-down list), and a function Navigation Bar.
+The minimum features for my API are the functions on the Sun Sign Astrology page, where the user will be able to choose their sign from a list of all 12 (using a drop-down list) and view information pertaining to that sign. Also, a functional Navigation Bar.
 
 **Post MVP**
 
-Post MVP I'd want to convert this to Swift and upload it onto TestFlight. Also I’d like for users to have the option to look at their whole birth chart within the app instead of linking to another website.
+Post MVP I'd want to convert this to Swift and upload it onto TestFlight. Also I’d like for users to have the option to look at their whole birth chart within the app.
 
 **Built With**
 
