@@ -36,6 +36,7 @@ Current Iteration: Below is the image containing my current mockup of what 'All 
 This current version priotizes changes made with the intention of making the application more aeshtetically pleasing. The choices I made are based on knowledge I've acquired on design, inlcluding choosing color palettes, typography and hierarchy of text.
 
 
+
 **API Documentation**
 
 This is the link containing the full documentation to successfully use the API https://jps-tarot-api.azurewebsites.net/swagger/index.html.
